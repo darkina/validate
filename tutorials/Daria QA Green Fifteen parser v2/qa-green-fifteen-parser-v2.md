@@ -1,5 +1,5 @@
 ---
-title: Daria QA Green Fifteen v2
+title: Daria QA Green Fifteen
 description: Handle the message execution in case of errors.
 auto_validation: true
 time: 15
